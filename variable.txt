@@ -1,0 +1,7 @@
+// Variables are like a pokeball in the world of pokemon;
+// int pokeball = 4;
+// int 4 = charmander;
+private int pokeball = pokemon;
+// The name of the pokemon within my variable is set apart by different numbers or values;
+// Number 4 is the value for the pokemon within my variable;
+// The line of code in line 3 tells us that my pokemon within my pokeball is a charmander.
